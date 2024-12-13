@@ -1,3 +1,4 @@
 flask
 flask-cors
 selenium
+chromedriver-autoinstaller==0.3.0
